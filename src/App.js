@@ -19,11 +19,11 @@ function App() {
  * Charmander
  * Bulbasaur
  
- If you're feeling more like a numbered list, feel yourself:
+ If you're feeling more like a numbered list, feel yourself, even if you just feel like putting 1 percent:
 
  1. Scary Movie
- 2. Titanic
- 3. American Pie
+ 1. Titanic
+ 1. American Pie
 
  FreeCodeCamp also wanted to see some [links](https://www.pokemon.com/us), and
  > Block Quotes!
